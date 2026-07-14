@@ -1,9 +1,9 @@
 # Product evaluation skill
 Rename it to SKILL.md and place it at:
 
-Global: ~/.claude/skills/product-evaluation/SKILL.md
-Project-level: your-project/.claude/skills/product-evaluation/SKILL.md
-
+Global: ~/.claude/skills/product-evaluation/SKILL.md  
+Project-level: your-project/.claude/skills/product-evaluation/SKILL.md  
+  
 Then invoke with /product-evaluation compare Snowflake vs Databricks vs Fabric — the topic lands in $ARGUMENTS.  
 Two things I'd flag about this design:  
 Phase 0 will ask you questions.  
